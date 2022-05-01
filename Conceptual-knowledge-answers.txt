@@ -1,0 +1,15 @@
+
+1-What is a smart contract? How are they deployed? You should be able to describe how a smart contract is deployed and the necessary steps.
+1)Smart contracts are computer programs that can carry out transactions and agreements between anonymous parties in a
+ reliable and consistent manner and cannot be changed retrospectively. It does not need a central authority, legal system or external enforcement mechanism. 
+Because smart contracts eliminate intermediary institutions and organizations, they are fast and cost-effective. 
+It is highly secure as it is encrypted with software algorithms and kept in distributed ledgers (remix, hardhat).
+2-what is gas? Why is gas optimization such a big focus when creating smart contracts?
+2)Ethers can be held in accounts or smart contracts. The commission to be paid for each calculation step required to register or 
+run contracts in the system is called gas. The highest commission we are willing to pay is also called the gas limit. In the Ethereum blockchain, gas refers to the
+ cost required to execute a transaction on the network. The lower gas we optimize the codes, the more we save
+3- What is hash? Why do people use hash to hide information?
+3) A hash function is an algorithm or subroutine that maps variable-length datasets to fixed-length datasets. It is used because it is very safe.
+4-How would you prove to a colorblind person that two different colored objects are actually of different colors? You could check out 
+Avi Wigderson talk about a similar problem 
+4)Of course with zero knowledge proof this is very easy and possible
